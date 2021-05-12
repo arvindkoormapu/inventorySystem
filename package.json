@@ -17,6 +17,6 @@
     "env": "0.0.2",
     "express": "4.17.1",
     "mongoose": "5.7.13",
-    "nodemailer": "6.3.1"
+    "nodemailer": "6.4.16"
   }
 }
